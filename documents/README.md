@@ -1,7 +1,5 @@
-Art History for the public
+Seattle Love website for people who love Seattle. 
 
-This web site will be an access point to public art information from the Metropolitan Museum of Art. This site will be powered by a new API provided by the Metropolitan Museum of Art, the API can be found here: https://metmuseum.github.io/
+This web site will be an access point to free stock photos of Seattle. Photos are pulled in through the unsplash.com API. The API can be found here:https://unsplash.com/developers
 
-API: https://collectionapi.metmuseum.org/public/collection/v1/objects/[objectID]
-
-The goal of this web site is to provide an easy way for users to look up information about items that are found in the Metropolitan Museum of Art. It can provide much useful data about artists, medium, provenance, timelines, and photographs of the artwork.
+The goal of this web site is to provide an easy way for users to look up photos of Seattle Food, Hiking, and Attractions, so they can be inspired and plan their next outing. Photos should link out to Unsplash.com and should have user/photographer informaiton.
