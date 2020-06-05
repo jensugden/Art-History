@@ -18,8 +18,8 @@ In order to structure Seattle Loves into a better organized SEO searchable site,
       <p>Be an explorer and traverse those mountains.</p> //or some such text
       //insert row of photos here
 
-Meta-tags that I would implement are: 
-Title: Seattle Loves Photos
-Description: Seattle Loves is all about a love of Seattle. Find inspirational photos of Seattle for food lovers, outdoor enthusiasts, and thrill-seekers. Use all of that inspiration to plan your next Seattle outting!
-Content-Type: text/html image/html
-Social Media: twitter, instagram, facebook
+Meta-tags that I would implement are: <br>
+Title: Seattle Loves Photos<br>
+Description: Seattle Loves is all about a love of Seattle. Find inspirational photos of Seattle for food lovers, outdoor enthusiasts, and thrill-seekers. Use all of that inspiration to plan your next Seattle outting! <br>
+Content-Type: text/html image/html <br>
+Social Media: twitter, instagram, facebook <br>
